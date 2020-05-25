@@ -1,0 +1,34 @@
+Abstraction - hiding the intricate working details
+
+applications
+
+Web Development - Flask, Django, Pyramid,
+Scientific Computing/Data Science- numpy, earthpy, pandas,
+Game Development - pygame
+Desktop applications - tkinter
+Machine learning and robotics - automation - IoT
+
+Companies using Python
+- Google 
+- Facebook
+- Dropbox
+- yahoo
+- NASA
+- IBM
+- Mozilla
+- Quora
+- Instagram
+- Reddit
+- Disney
+
+
+# Variables - containers for data
+- Variable naming rules
+
+
+# Strings
+- String Manipulation
+- String Methods
+
+
+# Numbers
