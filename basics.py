@@ -54,6 +54,6 @@ print(sum)
 
 
 
-# string manipulation
+# output
 # f string
 # .format()
