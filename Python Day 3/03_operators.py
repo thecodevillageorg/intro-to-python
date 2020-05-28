@@ -92,5 +92,28 @@ if not flag:                  # same as saying if not true
 
 # Assignment Operators
 # Bitwise Operators
-# Membership Operators
 
+# Membership Operators - "in" and "not in"
+"""
+Membership operators are used to test if a sequence appears in an object.
+"""
+# Membership Operator “in”
+"""
+Used when you want to check if a given object has a value appear in it.
+The best use case is checking for a certain value within strings.
+"""
+
+# using the keyword 'in' within an 'if statement'
+name = "Valentine"
+if "tine" in name:
+      print(f"tine is in {name}")
+
+# Membership Operator “not in”
+"""
+If you want to check to see if an object doesn’t include a specific value, you
+would use the “not in” operator. This is essentially just checking the opposite of the “in”
+operator.
+"""
+# using the keyword 'not in' within an 'if statement'
+if "b" not in name:
+      print(f"b is not in {name}")
