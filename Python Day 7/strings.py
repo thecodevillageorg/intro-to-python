@@ -24,7 +24,6 @@ print(greeting[3:])
 print(greeting_copy)
 
 
-
 # string methods
 # .title() - capitalizes all first letters in each word or a string
 print(first_name.title())
