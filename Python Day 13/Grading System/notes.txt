@@ -1,0 +1,31 @@
+Create a folder: Grading System
+Create classes (each class or function should be in a separate file):
+- School - school_name, school_address
+- Student - student_name, student_stream, school
+- Subject - subject_name, subject_score
+- grading function:
+
+	def grading(score):
+	    if score>= 80 and score<=100:
+		print("A")
+	    elif score>= 60 and score< 80:
+		print("B")
+	    elif score>= 50 and score< 60:
+		print("C")
+	    elif score>= 45 and score< 50:
+		print("D")
+	    elif score>= 25 and score< 45:
+		print("E")
+	    else:
+		print("F")
+
+- main.py: this will contain the logic for getting the school,student and subject details then 
+calculate the grades and output the report.
+
+Using the classes:
+- Ask for the number of students
+- For each student, ask for the school name and address and store in a list
+- For each student, ask for their name and stream and store in a list
+- For each student, ask for their number of subjects, record the subject name and score
+then store in a list
+- Grade the subjects then output the report card
